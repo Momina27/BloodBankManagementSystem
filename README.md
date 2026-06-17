@@ -19,7 +19,7 @@ The **Blood Bank Management System** is a JavaFX-based desktop application desig
 * **Donor Management:** Full CRUD operations to register, view, update, and delete donor profiles.
 * **Real-Time Blood Inventory:** Dynamic visual card-style layout displaying stock metrics across all 8 blood groups.
 * **Emergency Request Management:** Automates incoming hospital requests with options to approve/decline based on available units.
-* **Observer-Driven Alert System:** Triggers live, prominent dashboard warnings when any blood group stock falls below a critical threshold (e.g., <= 2 units).
+* **Observer-Driven Alert System:** Triggers live, prominent dashboard warnings when any blood group stock falls below a critical threshold (e.g., <= 2 units)..
 
 ---
 
